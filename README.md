@@ -98,7 +98,7 @@ Built using Python (Tkinter) and Microsoft SQL Server.
 
 # 📊 ER Diagram
 
-![ERD](erd/ERDiagram.png)
+![ERD](erd/ERDiagram.jpg)
 
 ---
 
